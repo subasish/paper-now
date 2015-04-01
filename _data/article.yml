@@ -40,7 +40,7 @@ contributions: # http://dictionary.casrai.org/Contributor_Roles
   - name: "Software"
     url: http://dictionary.casrai.org/Contributor_Roles/Software
     contributors:
-      - id: https://orcid.org/00000000-0000-0000-000002
+      - id: https://orcid.org/00000000-0000-0000-00000s2
         name: "Subasish Das"
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
