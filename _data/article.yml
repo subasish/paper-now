@@ -26,10 +26,10 @@ authors:
         awards: [ "NIH123" ]
 contributions: # http://dictionary.casrai.org/Contributor_Roles
   - name: "Methodology"
-    url: http://dictionary.casrai.org/Contributor_Roles/Methodology
+    url: http://subasish.github.io
     contributors:
-      - id: https://orcid.org/00000000-0000-0000-000001
-        name: "First Author"
+      - id: https://orcid.org/0000-0002-1671-2753
+        name: "Subasish Das"
       - id: https://orcid.org/00000000-0000-0000-000002
         name: "Second Author"
   - name: "Investigation"
