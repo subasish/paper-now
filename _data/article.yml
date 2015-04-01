@@ -1,6 +1,6 @@
-title: "My First Article"
+title: "New Article"
 doi: # e.g. 10.1234/example.1
-date: "2015-03-15T12:00:00" # e.g. 2015-03-02
+date: "2015-03-31T12:00:00" # e.g. 2015-03-02
 authors:
   - id: "https://orcid.org/0000-0002-1671-2753"
     name: "Subasish Das"
@@ -36,12 +36,12 @@ contributions: # http://dictionary.casrai.org/Contributor_Roles
     url: http://dictionary.casrai.org/Contributor_Roles/Investigation
     contributors:
       - id: https://orcid.org/00000000-0000-0000-000002
-        name: "Second Author"
+        name: "Subasish Das"
   - name: "Software"
     url: http://dictionary.casrai.org/Contributor_Roles/Software
     contributors:
       - id: https://orcid.org/00000000-0000-0000-000002
-        name: "Second Author"
+        name: "Subasish Das"
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
     contributors:
