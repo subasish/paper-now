@@ -45,8 +45,8 @@ contributions: # http://dictionary.casrai.org/Contributor_Roles
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
     contributors:
-      - id: https://orcid.org/00000000-0000-0000-000001
-        name: "First Author"
+      - id: https://orcid.org/0000-0002-1671-2753
+        name: "Subasish Das"
   - name: "Writing - review & editing"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing
     contributors:
