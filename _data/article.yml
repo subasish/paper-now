@@ -13,42 +13,42 @@ authors:
           doi: 
           awards: 
   - id: 
-    name: "Anandi Dutta"
+    name: "A. Dutta"
     email: 
     affiliations:
-      - address: "Department, Institution, City, State, Country"
-        url: http://mathematics.stanford.edu/
-      - address: "Department, Institution, City, State, Country"
+      - address: "Systems Engineering, University of Louisiana, Lafayette, LA, USA"
+        url: http://subasish.github.io
+      - address: "Systems Engineering, University of Louisiana, Lafayette, LA, USA"
     funders:
-      - name: "National Institutes of Health"
-        url: http://www.nih.gov/
-        doi: "10.13039/100000002"
-        awards: [ "NIH123" ]
+      - name: "CACS"
+        url: http://subasish.github.io
+        doi: "10.13039/100000002ddd"
+        awards: [ "NIH123dd" ]
 contributions: # http://dictionary.casrai.org/Contributor_Roles
   - name: "Methodology"
     url: http://subasish.github.io
     contributors:
       - id: https://orcid.org/0000-0002-1671-2753
         name: "Subasish Das"
-      - id: https://orcid.org/00000000-0000-0000-000002
-        name: "Second Author"
+      - id: https://orcid.org/00000000-0000-0000-000222
+        name: "A. Dutta"
   - name: "Investigation"
-    url: http://dictionary.casrai.org/Contributor_Roles/Investigation
+    url: http://subasish.github.io
     contributors:
-      - id: https://orcid.org/00000000-0000-0000-000002
+      - id: https://orcid.org/00000000-0000-0000-000222
         name: "Subasish Das"
   - name: "Software"
-    url: http://dictionary.casrai.org/Contributor_Roles/Software
+    url: http://subasish.github.io
     contributors:
-      - id: https://orcid.org/00000000-0000-0000-00000s2
+      - id: https://orcid.org/00000000-0000-0000-0000222
         name: "Subasish Das"
   - name: "Writing - original draft"
-    url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
+    url: http://subasish.github.io
     contributors:
       - id: https://orcid.org/0000-0002-1671-2753
         name: "Subasish Das"
   - name: "Writing - review & editing"
-    url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing
+    url: http://subasish.github.io
     contributors:
       - id: https://orcid.org/00000000-0000-0000-000001
-        name: "Second Author"
+        name: "A. Dutta"
